@@ -1,0 +1,176 @@
+This class is about data analysis and processing for astronomoy at undergraduate entry level. 
+
+Days: MWF
+Time: 1:50PM - 2:45PM
+Location: Evans Lab 2004
+
+We will go over five (maybe more) major topics on the very frontier of astrophysics, inlucidng dark matter, dark energy, exoplanets, gravitational wave, and stellar physics. For each topic, we will adopt the following structure train your wholistic research skills:
+1, Understanding the scientific importance
+2, Understanding the underlying physics and math
+3, Working out a problem as an individual or within a team
+4, Reading research papers to understand the gap between different approaches (e.g., yours vs. other reserachers)
+5, Asking and attempting to solve open questions
+6, Oral presentations using powerpoint slides and a poster
+7, Writing a scientific report
+8, Improving scientific communication skills by creating popular science figures and articles 
+
+For each topic, you will be assigned a grade (up to 20 points) based on the following metrics:
+1, Written report (5 pts)
+2, Oral presentation with slides or poster presentation (5 pts)
+3, Self-evalution (2 pts)
+4, Week-end assignment on Carmen (3 x 1 pt)
+5, Professor evaluation based on the above 3 categories and classroom participation (5 pts)
+
+Evaluation and rubric:
+Your oral presentation and written report will be evaluated by other teams based the following rubric. Your score will be the average of scores from other teams. 
+1, 5 pts for the oral presentation.
+	A, Is the presentation clear? (1 pt)
+	B, Is the presentation engaging? (1 pt)
+C, Is the presentation complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
+	D, Does the presentation address all the questions from audience? (1 pt)
+
+2, 5 pts for the written report.
+A, Is the report complete, i.e., covering motivation, methods, results, and conclusions (1 pt)
+B, Does the repot clearly lay out all the assumptions and calculations? (1 pt)
+C, Does the report address all questions in the project? (1 pt)
+D, Are the results sensible? (1 pt)
+E, Contribution statement (0.5 pt)
+F, AI statement (0.5 pt)
+
+In addition, here are more specific instructions:
+
+A, The report should be less than 5-page (references/citations excluded) and cover motivation, methods, results, and conclusions. 
+B, The report should clearly lay out all the assumptions and calculations.
+C, The report should address all questions that have been covered in the project.
+D, The report should acknowledge the contribution of each team member when appropriate, e.g., specifying leader and contributors for each section of the report.
+E, If genAI is used, specify the GenAI application or tool you used (e.g., Copilot, ChatGPT, Claude
+   AI, Gemini), describe the purpose for which you used GenAI (e.g., idea generation,
+   content creation, explain how you revised prompts or adjusted parameters to refine the
+   GenAI output, and reflect on how you incorporated the GenAI-generated content into your assignment. 
+
+The grading scheme is as follows:
+OSU Percentage Scale	LETTER GRADE
+93% - 100%	A
+90% - 93%	A-
+87% - 90%	B+
+83% - 87%	B
+80% - 83%	B-
+77% - 80%	C+
+73% - 77%	C
+70% - 73%	C-
+67% - 70%	D+
+60% - 76%	D
+0%	E
+
+Religious Accommodations
+Our inclusive environment allows for religious expression. Students requesting accommodations
+based on faith, religious or a spiritual belief system in regard to examinations, other academic
+requirements or absences, are required to provide the instructor with written notice of specific
+dates for which the student requests alternative accommodations at the earliest possible date. For
+more information about religious accommodations at Ohio State, visit odi.osu.edu/religious-accommodations.
+
+Weather Or Other Short-Term Closing
+Should in-person classes be canceled, we will meet virtually via CarmenZoom during our
+regularly scheduled time. I will share any updates via CarmenCanvas.
+
+Academic Misconduct
+It is the responsibility of the Committee on Academic Misconduct to investigate or establish
+procedures for the investigation of all reported cases of student academic misconduct. The term
+“academic misconduct” includes all forms of student academic misconduct wherever committed;
+illustrated by, but not limited to, cases of plagiarism and dishonest practices in connection with
+examinations. Instructors shall report all instances of alleged academic misconduct to the
+committee (Faculty Rule 3335-5-487). For additional information, see the Code of Student
+Conduct http://studentlife.osu.edu/csc/.
+
+Students with Disabilities
+The University strives to make all learning experiences as accessible
+as possible. In light of the current pandemic, students seeking to
+request COVID-related accommodations may do so through the
+university's request process, managed by Student Life Disability
+Services. If you anticipate or experience academic barriers based on
+your disability (including mental health, chronic or temporary
+medical conditions), please let me know immediately so that we can
+privately discuss options. To establish reasonable accommodations,
+I may request that you register with Student Life Disability
+Services. After registration, make arrangements with me as soon as
+possible to discuss your accommodations so that they may be
+implemented in a timely fashion. SLDS contact
+information: slds@osu.edu; 614-292-3307; slds.osu.edu; 098 Baker
+Hall, 113 W. 12th Avenue.
+
+Mental Health
+As a student you may experience a range of issues that can cause barriers to learning, such as
+strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty
+concentrating and/or lack of motivation. These mental health concerns or stressful events may
+lead to diminished academic performance or reduce a student’s ability to participate in daily
+activities. The Ohio State University offers services to assist you with addressing these and other
+concerns you may be experiencing. If you or someone you know are suffering from any of the
+aforementioned conditions, you can learn more about the broad range of confidential mental
+health services available on campus via the Office of Student Life’s Counseling and Consultation
+Service (CCS) by visiting ccs.osu.edu or calling 614-292-5766. CCS is located on the 4th Floor
+of the Younkin Success Center and 10th Floor of Lincoln Tower. You can reach an on call
+counselor when CCS is closed at 614-292-5766 and 24 hour emergency help is also available
+24/7 by dialing 988 to reach the Suicide and Crisis Lifeline.
+
+Title IX
+Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights
+offenses subject to the same kinds of accountability and the same kinds of support applied to
+offenses against other protected categories (e.g., race). If you or someone you know has been
+sexually harassed or assaulted, you may find the appropriate resources at http://titleix.osu.edu or
+by contacting the Ohio State Title IX Coordinator at titleix@osu.edu
+
+Diversity
+The Ohio State University affirms the importance and value of diversity in the student body. Our
+programs and curricula reflect our multicultural society and global economy and seek to provide
+opportunities for students to learn more about persons who are different from them. We are
+committed to maintaining a community that recognizes and values the inherent worth and dignity
+of every person; fosters sensitivity, understanding, and mutual respect among each member of
+our community; and encourages each individual to strive to reach his or her own potential.
+Discrimination against any individual based upon protected status, which is defined as age, color,
+disability, gender identity or expression, national origin, race, religion, sex, sexual orientation, or
+veteran status, is prohibited.
+
+Usage of generative artificial Intelligence (GenAI)
+In this course, students are welcome to explore innovative tools and technologies, including generative artificial intelligence
+(GenAI). Students are permitted to use GenAI tools for assitance of Python coding. Otherwise, the use of GenAI is prohibited, e.g., essays and presentations. 
+If you use GenAI in any of your assignments, please include the following statement with
+each assignment:
+1. Application Used: Specify the GenAI application or tool you used (e.g., Copilot, ChatGPT, Claude
+AI, Gemini).
+2. Intended Purpose: Describe the purpose for which you used GenAI (e.g., idea generation,
+content creation).
+3. Quality of Initial GenAI Output: Evaluate the initial output generated by GenAI. For example, was
+it accurate, biased, coherent, and/or relevant?
+4. Iteration and Refinement: Explain how you revised prompts or adjusted parameters to refine the
+GenAI output. Did you experiment with different input prompts to improve the output?
+5. Incorporation in Completed Assignment: Reflect on how you incorporated the GenAI-generated
+content into your assignment. How did you edit, adapt, or combine it with other ideas?
+While GenAI can be a valuable tool, remember that academic integrity remains paramount. You are
+responsible for developing and articulating your own ideas, so addressing how GenAI contributed to
+those ideas (as you would for any sources you use) is centrally important to your learning. Attribute
+GenAI-generated content with proper citations and avoid plagiarism. Additionally, consider the accuracy
+of information incorporated in your assignment and the ethical implications of using GenAI in educational
+contexts. You are responsible for ensuring that the information you submit based on a GenAI query does
+not contain misinformation, unethical content, or violate intellectual property laws. Submission of GenAI-
+generated content as your own work is considered a violation of Ohio State’s Academic Integrity policy
+and Code of Student Conduct because the work is not your own. The use of unauthorized GenAI tools
+will result in referral to the Committee on Academic Misconduct. If I suspect that you have used GenAI
+inappropriately on an assignment for this course, I will ask you to communicate with me to explain your
+process for completing the assignment in question.
+
+Privacy Considerations: Students should familiarize themselves with the Terms of Use for the GenAI
+service they use, as well as the service’s expectations around data privacy and use. Students should not
+share private or sensitive information about themselves or others with GenAI services. As indicated in
+Ohio State’s February 2024 Security and Privacy Statement on Artificial Intelligence, “[u]niversity
+community members should not enter any institutional data that is categorized above the S1 (public) level
+into generative AI tools, except when using the protected environment of Copilot, meaning that you
+logged in with your university credentials and see the green ‘Protected’ button in the upper right-hand
+corner. Even when using the protected version of Copilot, it is best practice to put only S1 or S2 (internal)
+institutional data into the tool. S3 (private) and S4 (restricted) data should not be entered into any AI
+platform.”
+
+Please contact me if you have questions regarding this course policy.
+
+Legacy General Education (GEL) Goals and ELOs:
+https://asccas.osu.edu/legacy-general-education-gel-goals-and-elos
+
