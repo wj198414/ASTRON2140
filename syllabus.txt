@@ -1,52 +1,56 @@
-This class is about data analysis and processing for astronomoy at undergraduate entry level. 
+This class is about the formation, current properties, and evolution of the Sun, planets and minor bodies of the Solar System; how they compare with planetary systems around other stars.  
 
 Days: MWF
-Time: 1:50PM - 2:45PM
-Location: Evans Lab 2004
+Time: 12:40PM - 1:35PM
+Location: Journalism Bldg 360
 
-We will go over five (maybe more) major topics on the very frontier of astrophysics, inlucidng dark matter, dark energy, exoplanets, gravitational wave, and stellar physics. For each topic, we will adopt the following structure train your wholistic research skills:
-1, Understanding the scientific importance
-2, Understanding the underlying physics and math
-3, Working out a problem as an individual or within a team
-4, Reading research papers to understand the gap between different approaches (e.g., yours vs. other reserachers)
-5, Asking and attempting to solve open questions
-6, Oral presentations using powerpoint slides and a poster
-7, Writing a scientific report
-8, Improving scientific communication skills by creating popular science figures and articles 
+Professor: Wang, Ji (wang.12220@osu.edu)
+TA: Smedile, Vincent (smedile.1@osu.edu)
+IA: Roush, Austin (roush.287@osu.edu)
 
-For each topic, you will be assigned a grade (up to 20 points) based on the following metrics:
-1, Written report (5 pts)
-2, Oral presentation with slides or poster presentation (5 pts)
-3, Self-evalution (2 pts)
-4, Week-end assignment on Carmen (3 x 1 pt)
-5, Professor evaluation based on the above 3 categories and classroom participation (5 pts)
+Office hours: via an appointment by contacting the above. 
 
-Evaluation and rubric:
-Your oral presentation and written report will be evaluated by other teams based the following rubric. Your score will be the average of scores from other teams. 
-1, 5 pts for the oral presentation.
-	A, Is the presentation clear? (1 pt)
-	B, Is the presentation engaging? (1 pt)
-C, Is the presentation complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
-	D, Does the presentation address all the questions from audience? (1 pt)
+Textbook: https://openstax.org/details/books/astronomy-2e
 
-2, 5 pts for the written report.
-A, Is the report complete, i.e., covering motivation, methods, results, and conclusions (1 pt)
-B, Does the repot clearly lay out all the assumptions and calculations? (1 pt)
-C, Does the report address all questions in the project? (1 pt)
-D, Are the results sensible? (1 pt)
-E, Contribution statement (0.5 pt)
-F, AI statement (0.5 pt)
+We will go over seven major topics:
+1, Earth, Moon, and Sky (Chapter 4)
+2, Earth as a Planet (Chapter 8)
+3, Earth-like Planets: Venus, and Mars (& Mercury, Chapter 10)
+4, The Giant Planets (Chapter 11)
+5, Galilean Moons, and the Earth's Moon (Chapter 12)
+6, Cosmic samples (Chapter 14)
+7, The Sun (Chapter 15) 
 
-In addition, here are more specific instructions:
+The course schedule is as follows:
+Week 1, Aug 26, 28: Earth, Moon, and Sky
+Week 2, Aug 31, Sep 2, 4: Earth, Moon, and Sky
+Week 3, Sep 9, 11 (no class on Labor Day Sep 7): Earth as a Planet
+Week 4, Sep 14, 16, 18: Earth as a Planet
+Week 5, Sep 21, 23, 25: Earth-like Planets: Venus, and Mars
+Week 6, Sep 28, 30, Oct 2: Earth-like Planets: Venus, and Mars, Planetarium Show on Biosignature
+Week 7, Oct 5, 7 (no class on Oct 9 due to travel): The Giant Planets
+Week 8, Oct 12, 14 (no class on Autumn Break Oct 16): The Giant Planets
+Week 9, Oct 19, 21, 23: The Giant Planets, Galilean Moons, and the Earth's Moon
+Week 10, Oct 26, 28, 30: Galilean Moons, and the Earth's Moon, 
+Week 11, Nov 2, 4, 6: Cosmic samples
+Week 12, Nov 9, 13 (no class on Veterans Day Nov 11): Cosmic samples
+Week 13, Nov 16, 18, 20: The Sun
+Week 14, No classes on Thanksgiving Week
+Week 15, Nov 30, Dec 2, 4: The Sun, Planetarium Show on Solar Neighborhood
+Week 16, Dec 7, 9: Wrapping up
 
-A, The report should be less than 5-page (references/citations excluded) and cover motivation, methods, results, and conclusions. 
-B, The report should clearly lay out all the assumptions and calculations.
-C, The report should address all questions that have been covered in the project.
-D, The report should acknowledge the contribution of each team member when appropriate, e.g., specifying leader and contributors for each section of the report.
-E, If genAI is used, specify the GenAI application or tool you used (e.g., Copilot, ChatGPT, Claude
-   AI, Gemini), describe the purpose for which you used GenAI (e.g., idea generation,
-   content creation, explain how you revised prompts or adjusted parameters to refine the
-   GenAI output, and reflect on how you incorporated the GenAI-generated content into your assignment. 
+For each topic, we will have the following modules:
+1, Scientific content
+2, A simple order-of-magnitude problem
+3, A frontier research question
+4, Writing two essays  
+5, A 15-minute one-on-one oral exam 
+
+You will be assigned a grade for each topic based on the following metrics:
+1, Essays (5 x 2 = 10 pts)
+2, Oral exam (5 pts)
+
+In total, your maximum final score is therefore 15 x 7 = 105 pts, which will be capped at 100 pts if exceeding 100 points. 
 
 The grading scheme is as follows:
 OSU Percentage Scale	LETTER GRADE
@@ -67,11 +71,11 @@ Our inclusive environment allows for religious expression. Students requesting a
 based on faith, religious or a spiritual belief system in regard to examinations, other academic
 requirements or absences, are required to provide the instructor with written notice of specific
 dates for which the student requests alternative accommodations at the earliest possible date. For
-more information about religious accommodations at Ohio State, visit odi.osu.edu/religious-accommodations.
+more information about religious accommodations at Ohio State, visit https://civilrights.osu.edu/support-options-and-accommodations/religious-accommodations.
 
 Weather Or Other Short-Term Closing
 Should in-person classes be canceled, we will meet virtually via CarmenZoom during our
-regularly scheduled time. I will share any updates via CarmenCanvas.
+regularly scheduled time. I will share any updates via email.
 
 Academic Misconduct
 It is the responsibility of the Committee on Academic Misconduct to investigate or establish
